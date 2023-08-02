@@ -1,0 +1,17 @@
+{
+  "startDate": "2017-08-01",
+  "endDate": "2017-09-30",
+  "timeUnit": "month",
+  "results": [
+    {
+      "title": "정장",
+      "keyword": ["정장"],
+      "data": [
+        { "period": "2017-08-01", "ratio": 9.7021, "group": "10" },
+        { "period": "2017-08-01", "ratio": 57.88466, "group": "20" },
+        { "period": "2017-09-01", "ratio": 13.55561, "group": "10" },
+        { "period": "2017-09-01", "ratio": 100, "group": "20" }
+      ]
+    }
+  ]
+}
